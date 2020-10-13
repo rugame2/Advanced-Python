@@ -1,0 +1,4 @@
+Create a function that given a string remove the vowels in the string and return the string.
+
+Example Input: “Joel”
+Example Output: “Jl”
